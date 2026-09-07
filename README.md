@@ -1,4 +1,4 @@
-# Your Parallel Encryption and Decryption
+# Parallel Encryption and Decryption
 
 ## Overview
 

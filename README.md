@@ -46,4 +46,14 @@ To explore the implementations in each branch:
    test
    ENCRYPT # after giving directory name, give ENCRYPT or DECRYPT to tell what to do
    ```
+## 📚 References
+
+- [C++ Reference (cppreference.com)](https://en.cppreference.com/)
+- [POSIX Threads (pthreads) Programming Guide](https://hpc-tutorials.llnl.gov/posix/)
+
+---
+
+## 📄 License
+
+MIT License.
 
